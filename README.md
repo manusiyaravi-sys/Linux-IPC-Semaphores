@@ -119,10 +119,5 @@ int main() {
 }
 ## OUTPUT
 <img width="2147" height="1300" alt="os-3" src="https://github.com/user-attachments/assets/7ec44c78-aa70-4bd3-a355-daed4833d1fe" />
-
-
-
-
-
 # RESULT:
 The program is executed successfully.
